@@ -1,0 +1,7 @@
+ * [暴力与否](ReadChildren/baoli.md)
+ * [回忆童年1](ReadChildren/huiyi1.md)  
+ * [回忆童年2](ReadChildren/huiyi2.md)  
+ * [回忆童年3](ReadChildren/huiyi3.md)  
+ * [概念发展研究的点评](ReadChildren/dianping.md)  
+ * ["高"概念的生成和发展](ReadChildren/gao.md)    
+ * [普适的困难](ReadChildren/pushikunnan.md)
